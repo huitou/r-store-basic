@@ -1,3 +1,3 @@
-# r-form-model
+# r-template
 
 This is an experimental library.
