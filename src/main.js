@@ -6,6 +6,6 @@
     Licensed under the MIT License. See LICENSE file in the project root for full license information.
 */
 
-import FormModel from './form-model/index';
+import NewlyDesignedModel from './form-model/index';
 
-export { FormModel };
+export { NewlyDesignedModel };

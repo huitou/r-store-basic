@@ -1,3 +1,3 @@
-const FormModel = () => 'ToBeDeveloped';
+const NewlyDesignedModel = () => 'ToBeDeveloped';
 
-export { FormModel };
+export { NewlyDesignedModel };

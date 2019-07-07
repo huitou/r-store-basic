@@ -1,14 +1,14 @@
 import React from 'react';
 import { shallow } from "enzyme";
 
-import FormModel from './component';
+import NewlyDesignedModel from './component';
 
 describe('FormModel', () => {
     describe('when mounted,', () => {
         
         let wrapper
         beforeEach(() => {
-            wrapper = shallow(<FormModel />);
+            wrapper = shallow(<NewlyDesignedModel />);
         })
         afterEach(() => {
             // jest.clearAllMocks();
