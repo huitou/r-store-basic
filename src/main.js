@@ -6,6 +6,6 @@
     Licensed under the MIT License. See LICENSE file in the project root for full license information.
 */
 
-import NewlyDesignedModel from './form-model/index';
+import CollectedStoreBasic from './store-basic/index';
 
-export { NewlyDesignedModel };
+export { CollectedStoreBasic };
